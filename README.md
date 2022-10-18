@@ -1,8 +1,10 @@
 ### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmagno5150&hide=contribs,prs)
-
 <!--
+
+<div>  
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmagno5150&show_icons=true&theme=radical" />  
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmagno5150&layout=compact&theme=radical" />  
+</div>
 **carlosmagno5150/carlosmagno5150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
